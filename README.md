@@ -10,5 +10,5 @@ A simple Gomoku game implemented with graphics library EasyX in C.
 * Compile the source code file 'xxx.cpp' by VC, and then you can run and play the game.
 
 ## Key Points
-* Use 3 identifiers to represent the status (empty, black cell and white cell) of each cell in chessboard.
-* Design a Decision Algorithm to judge whether there's one side who has won the game at present.
+* Use 3 identifiers to represent the __status__ (empty, black cell and white cell) of each cell in chessboard.
+* Design a __Decision Algorithm__ to judge whether there's one side who has won the game at present.
