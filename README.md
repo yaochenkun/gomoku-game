@@ -1,8 +1,8 @@
 # Gomoku
 A simple Gomoku game implemented with graphics library EasyX in C.
 ## Screenshot
-![Home Page](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/wuziqi1.jpg)
-![Playing](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/wuziqi2.png)
+* Home ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/wuziqi1.jpg)
+* Playing ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/wuziqi2.png)
 
 ## Environment and Settings
 * Download and install VC++6.0.
