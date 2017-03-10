@@ -1,9 +1,9 @@
 # Gomoku
 A simple Gomoku game implemented with graphics library EasyX in C.
 ## Screenshot
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/wuziqi1.jpg)
+![](http://yaochenkun.cn/wp-content/uploads/2016/07/wuziqi1.jpg)
 
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/wuziqi2.png)
+![](http://yaochenkun.cn/wp-content/uploads/2016/07/wuziqi2.png)
 
 ## Download and Run
 Just dowanload and open [五子棋游戏.exe](https://github.com/yaochenkun/GomokuGame/blob/master/五子棋游戏.exe)
